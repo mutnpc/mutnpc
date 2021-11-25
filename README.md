@@ -5,7 +5,7 @@
 
 ## 官网
 
-[mutnpc](https://mutnpc.com) 
+[mutnpc.com](https://mutnpc.com) 
 
 
 ## 内容列表
