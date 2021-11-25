@@ -11,7 +11,7 @@
 ## 内容列表
 
 - [000.开学了，说点游戏的事情](https://mp.weixin.qq.com/s/xpGLBIWkaxo032cV7G8c3Q)
-- [001.游戏，人工智能与元宇宙)(https://mp.weixin.qq.com/s/cOTn2WpIU5ZM-guRY9kDmw)
+- [001.游戏，人工智能与元宇宙](https://mp.weixin.qq.com/s/cOTn2WpIU5ZM-guRY9kDmw)
 
 
 #### 外站链接
